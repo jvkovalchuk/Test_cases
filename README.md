@@ -1,6 +1,5 @@
-# Тестовое задание на вакансию Маркетолога-аналитика CRM
-В данном репозитории находится файлы с решениями поставленных задач в качестве тестового задания:
-- **[CRM_analytics](CRM_analytics).** Решение первой задачи по определению профиля абонента. Файл создан в Jupyter Notebook с помощью языка програмирования Python.
-- **[2_analyse_campaing](CRM_analytics/2_analyse_campaing.ipynb).** Решение второй задачи по определнию эффективности проведенных маркетинговых кампаний.  Файл создан в Jupyter Notebook с помощью языка програмирования Python.
- 
- **[analyse_test2](CRM_analytics/analyse_test2.xlsx).** Промежуточный файл с расчетами для второй задачи. Файл MS Excel.
+# Выполненные тестовые задания
+
+| Project name       | Disription           | Skills  | Used libraries  |
+| ------------- | ------------- |:-------------:| -----:|
+| **[CRM_analytics](CRM_analytics).** | Анализ данных абонентов оператора связи и определение эффективности маркетингового тисследования. | Explorer Data Analyse, data visualization, data preprocessing, feature engineering | pandas, NumPy, matplotlib, Seaborn|
