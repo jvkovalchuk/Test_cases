@@ -7,4 +7,4 @@
 - **[2_analyse_campaing](https://github.com/jvkovalchuk/Test_cases/blob/dcca23fe719fcda474c025cb08a366fb0a600b77/CRM_analytics/2_analyse_campaing.ipynb).** Решение второй задачи по определнию эффективности проведенных маркетинговых кампаний.  Файл создан в Jupyter Notebook с помощью языка програмирования Python.
 
 
- **[analyse_test2](CRM_analytics/analyse_test2.xlsx).** Промежуточный файл с расчетами для второй задачи. Файл MS Excel.
+ **[analyse_test2](https://github.com/jvkovalchuk/Test_cases/blob/bbf30a482929cbb9ad12f893a8f0ac6c9b1e63f9/CRM_analytics/analyse_test2.xlsx).** Промежуточный файл с расчетами для второй задачи. Файл MS Excel.
